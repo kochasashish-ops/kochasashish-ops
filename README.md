@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hi there! 👋 I'm **Ankit Kumar Choubey**.
+Hi there! 👋 I'm **Ashish Kumar**.
 
-🎓 BCA Student at **Maharishi University of Information Technology, Lucknow**  
+🎓 BCA Student at **Gopal Narayan Singh University**  
 📅 Expected Graduation: **2027**  
 🎯 Career Goal: **Data Analyst**
 
